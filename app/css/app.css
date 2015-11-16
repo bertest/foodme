@@ -188,7 +188,7 @@ input.ng-invalid.ng-dirty {
 }
 
 .fm-menu-list ul li {
-  text-align: center;
+  text-align: left;
 }
 
 .fm-cart li {
