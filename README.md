@@ -3,7 +3,8 @@
 Simplified meal ordering app for local restaurants built with AngularJS
 and node.js backend.
 
-Check out this doc for more info about the app: http://goo.gl/Xa0Ea
+Check out this doc for more info about the app: 
+https://docs.google.com/document/d/1Fzq60IBaSf5mnsLWhig5nhZ9cJT85sresp0NqNIwh1I/pub
 
 Also check out the commit history to see how the app was built piece by piece:
 
